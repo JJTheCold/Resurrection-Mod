@@ -25,7 +25,8 @@
   "armor": 25,
   "speed": 2.25,
   "hitSize": 58,
-  "mineRange": 320,
+  "mineRange": 420,
+  "buildingRange": 420,
   "layer": 115,
   "drag": 0.8,
   "stepSoundVolume": 1.5,
@@ -63,7 +64,7 @@
     {
       "type": "mindustry.entities.abilities.ForceFieldAbility",
       "radius": 150,
-      "regen": 10,
+      "regen": 40,
       "max": 12000,
       "cooldown": 350
     },
@@ -118,7 +119,8 @@
       "laserColor": "77bfc0",
       "healColor": "77bfc0",
       "bullet": {
-        "maxRange": 40,
+        "maxRange": 350,
+        "beamWidth": 3,
         "speed": 3
       }
     },
@@ -139,7 +141,8 @@
       "laserColor": "77bfc0",
       "healColor": "77bfc0",
       "bullet": {
-        "maxRange": 40,
+        "maxRange": 350,
+        "beamWidth": 3,
         "speed": 3
       }
     },
