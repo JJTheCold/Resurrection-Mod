@@ -15,7 +15,6 @@
   "shootY": -1,
   "shootCone": 3,
   "research": "disperse",
-  "shake": 2,
   "requirements": [
   "carbide/200",
   "beryllium/1500",
@@ -53,10 +52,10 @@
           "type": "warmup",
           "op": "blend",
           "other": "heat",
-          "amount": 0.2,
+          "amount": 0.2
         },
         "mirror": true
-      },
+      }
 ]
 },
 "shootSound": "shootAlt",
@@ -159,13 +158,7 @@
   "lightningLength": 16,
   "lightningDamage": 25,
   "lightningCone": 360,
-  "lightning": 3,
+  "lightning": 3
 }
-}
-"research": {
-"parent": "breach",
-"objectives": [
-"sublimate"
-]
 }
 }

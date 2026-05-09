@@ -373,7 +373,37 @@
           "under": true,
           "x": 0,
           "y": 0
-        }
+        },
+      {
+        "type": "RegionPart",
+        "suffix": "-spike",
+        "moveX": 13,
+        "under": true,
+        "moveY": 13,
+        "progress": {
+          "type": "warmup",
+          "op": "blend",
+          "other": "heat",
+          "amount": 0.2
+        },
+        "mirror": true
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-spike",
+        "moveX": 6,
+        "under": true,
+        "moveY": 6,
+          "x": -8,
+          "y": 25,
+        "progress": {
+          "type": "warmup",
+          "op": "blend",
+          "other": "heat",
+          "amount": 0.2
+        },
+        "mirror": true
+      }
       ],
   "shoot": {
     "type": "ShootAlternate",
