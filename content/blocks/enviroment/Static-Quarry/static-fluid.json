@@ -1,5 +1,8 @@
 {
   "type": "Floor",
+  "localizedName": "Static Fluid",
+  "lightColor": "77bfc0",
+  "lightOpacity": 0.6,
   "speedMultiplier": 1.5,
   "variants": 0,
   "statusDuration": 230,
