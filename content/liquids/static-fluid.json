@@ -1,0 +1,11 @@
+{
+  "localizedName": "Static Fluid",
+  "temperature": 2,
+  "flammability": 0.4,
+  "capPuddles": true,
+  "explosiveness": 1,
+  "color": "a4d5c9",
+  "lightColor": "77bfc0",
+  "effect": "blasted",
+  "viscosity": 0.6
+}
