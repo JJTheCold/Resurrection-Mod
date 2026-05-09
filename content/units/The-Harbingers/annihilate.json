@@ -379,7 +379,7 @@
         "suffix": "-spike",
         "moveX": 20,
         "under": true,
-        "moveY": 20,
+        "moveY": 20, 
         "moveRot": -20,
         "heatColor": "8dbbff",
           "x": -4,
