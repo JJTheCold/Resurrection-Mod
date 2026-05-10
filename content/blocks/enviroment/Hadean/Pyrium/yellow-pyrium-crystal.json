@@ -10,7 +10,7 @@
   "lobesMax": "4",
   "lobesMin": "3",
   "emitLight": true,
-  "lightOpacity": 0.4,
+  "brightness": 0.4,
   "lightRadius": 150,
   "albedo": 0.2,
   "magMin": 0,
