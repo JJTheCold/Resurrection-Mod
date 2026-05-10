@@ -1,0 +1,19 @@
+{
+  "type": "Conduit",
+  "name": "Pipeline",
+  "description": "Directs imput items to the output.",
+  "category": "liquid",
+  "alwaysUnlocked": true,
+  "research": "Quartz-core",
+  "bridgeReplacement": "Channel-bridge",
+  "liquidCapacity": 25,
+  "researchCost": [
+    "pane/250",
+    "Thaxon/120"
+  ],
+  "health": 200,
+  "requirements": [
+    "pane/1",
+    "Thaxon/1"
+  ]
+}

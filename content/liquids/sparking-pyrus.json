@@ -2,7 +2,7 @@
   "localizedName": "Sparking Pyrus",
   "description": "Used for more basic Hadean tech. Extreamly hot. Less prone to explode if it catches fire",
   "temperature": 0.8,
-  "flammability": 1,
+  "flammability": 0.2,
   "capPuddles": true,
   "explosiveness": 0.4,
   "color": "fff047",

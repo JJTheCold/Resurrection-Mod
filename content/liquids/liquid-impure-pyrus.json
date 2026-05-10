@@ -1,6 +1,6 @@
 {
   "localizedName": "Impure Pyrus",
-  "description": "A highly flammable for of pyrus. Prone to explode it if catches fire.",
+  "description": "A highly flammable for of pyrus. Prone to explode.",
   "temperature": 1,
   "flammability": 1,
   "capPuddles": true,
