@@ -11,6 +11,5 @@
   "status": "melting",
   "emitLight": true,
   "lightRadius": 25,
-  "cacheLayer": "slag",
-  "liquidDrop": "liquid-slag"
+  "cacheLayer": "slag"
 }
