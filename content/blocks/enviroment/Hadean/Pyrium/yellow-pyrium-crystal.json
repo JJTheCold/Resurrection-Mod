@@ -2,7 +2,7 @@
   "type": "SeaBush",
   "name": "Yellow Pyrium Crystal",
   "crushFragile": false,
-  "layer": 61,
+  "layer": 74,
   "solid": true,
   "instantDeconstruct": false,
   "placeableOn": false,
