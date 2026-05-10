@@ -1,7 +1,7 @@
 {
   "localizedName": "Scorching Pyrus",
   "description": "Melt's through most metal. Extreamly durrable pipes are needed to transport this liquid.",
-  "temperature": 15,
+  "temperature": 2,
   "flammability": 4,
   "capPuddles": true,
   "explosiveness": 1.2,
