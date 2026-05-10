@@ -15,7 +15,7 @@
   "albedo": 0.2,
   "magMin": 0,
   "magMax": 0,
-  "lightColor": "ffc825",
+  "lightColor": "CBB73840",
   "unitMoveBreakable": false,
   "breakable": false,
   "alwaysReplace": false,
