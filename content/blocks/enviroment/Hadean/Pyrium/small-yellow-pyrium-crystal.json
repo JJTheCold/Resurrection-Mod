@@ -1,0 +1,22 @@
+{
+  "type": "SeaBush",
+  "name": "Small Yellow Pyrium Crystal",
+  "crushFragile": false,
+  "layer": 61,
+  "solid": true,
+  "instantDeconstruct": false,
+  "placeableOn": false,
+  "clipSize": 90,
+  "lobesMax": "4",
+  "lobesMin": "3",
+  "emitLight": true,
+  "lightRadius": 50,
+  "albedo": 0.1,
+  "magMin": 0,
+  "magMax": 0,
+  "lightColor": "CBB73840",
+  "unitMoveBreakable": false,
+  "breakable": false,
+  "alwaysReplace": false,
+  "replaceable": false
+}
