@@ -1,16 +1,16 @@
 {
   "type": "Floor",
-  "localizedName": "Static Fluid",
+  "localizedName": "Yellow Pyrus",
   "lightColor": "cbb738",
   "speedMultiplier": 0.75,
   "variants": 0,
   "statusDuration": 100,
   "isLiquid": "true",
-  "temperature": "1.2",
+  "temperature": "2",
   "albedo": 0.2,
   "status": "melting",
   "emitLight": true,
   "lightRadius": 25,
   "cacheLayer": "slag",
-  "liquidDrop": "liquid-staticfluid"
+  "liquidDrop": "liquid-slag"
 }

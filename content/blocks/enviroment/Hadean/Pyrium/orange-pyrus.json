@@ -1,0 +1,16 @@
+{
+  "type": "Floor",
+  "localizedName": "Orange Pyrus",
+  "lightColor": "d05c00",
+  "speedMultiplier": 0.5,
+  "variants": 0,
+  "statusDuration": 250,
+  "isLiquid": "true",
+  "temperature": "3.5",
+  "albedo": 0.2,
+  "status": "melting",
+  "emitLight": true,
+  "lightRadius": 30,
+  "cacheLayer": "slag",
+  "liquidDrop": "liquid-slag"
+}
